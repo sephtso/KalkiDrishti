@@ -46,7 +46,7 @@ Developed as part of a final-year B.Tech project at Assam Down Town University, 
 
 
 
-###V🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 ### 🔙 Backend (ML & API)
 - **Python 3.6.5**
