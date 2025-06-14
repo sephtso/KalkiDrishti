@@ -68,13 +68,6 @@ Developed as part of a final-year B.Tech project at Assam Down Town University, 
 
 ## 🧠 System Architecture
 
-```plaintext
-+------------------+          +------------------+          +----------------------+
-|  Civilian Portal |   -->    |  Flask/Django API|   -->    |  Crime Classifier    |
-+------------------+          +------------------+          +----------------------+
-         ^                                                           |
-         |                                                           v
-+------------------+                                        +----------------------+
-| Police Dashboard |   <--    Real-Time Reports             |  Random Forest Model |
-+------------------+                                        +----------------------+
+![image](https://github.com/user-attachments/assets/1e9a50b7-07a3-4657-b60a-e1901138f999)
+
 
