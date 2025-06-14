@@ -1,7 +1,11 @@
 # KalkiDrishti
 Crime prediction system using ML (KNN, Decision Tree, Random Forest) on Guwahati police data with role-based access and visual analytics.
 👁️ KalkiDrishti – Predicting Crimes Using Machine Learning
+
+
+
 ![logo(2) png](https://github.com/user-attachments/assets/9c49527b-e284-4f30-907d-9f6f17c1bab2)
+
 
 
 **KalkiDrishti** (क्ल्कि दृष्टि) is an intelligent crime prediction system that uses machine learning to analyze temporal and geospatial crime data from the city of Guwahati, India. It forecasts likely criminal activities, identifies crime hotspots, and enables role-based access for civilians and law enforcement to collaborate in reporting and analyzing incidents.  
