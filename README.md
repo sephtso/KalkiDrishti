@@ -31,7 +31,7 @@ Developed as part of a final-year B.Tech project at Assam Down Town University, 
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - 🔐 Role-based login for civilians and police officers
 - 📝 Civilians can report crimes with a timestamp and location
@@ -42,19 +42,19 @@ Developed as part of a final-year B.Tech project at Assam Down Town University, 
 
 ---
 
-🎥 Demo
+### 🎥 Demo
 
 
 
-🛠️ Technologies Used
+###V🛠️ Technologies Used
 
-🔙 Backend (ML & API)
+### 🔙 Backend (ML & API)
 - **Python 3.6.5**
 - **Anaconda Navigator**
 - **Scikit-learn** (KNN, Decision Tree, Random Forest)
 - **Pandas, NumPy, Geopy**
 
-🌐 Frontend
+### 🌐 Frontend
 - **React.js + Next.js**
 - **TypeScript**
 - **Tailwind CSS**
@@ -66,7 +66,7 @@ Developed as part of a final-year B.Tech project at Assam Down Town University, 
 
 ---
 
-## 🧠 System Architecture
+### 🧠 System Architecture
 
 ![image](https://github.com/user-attachments/assets/1e9a50b7-07a3-4657-b60a-e1901138f999)
 
